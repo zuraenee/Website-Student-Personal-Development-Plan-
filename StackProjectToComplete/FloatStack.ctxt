@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FloatStack
+comment1.params=stackSizeIn
+comment1.target=FloatStack(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ aStack\r\n
+comment2.params=dataIn
+comment2.target=void\ push(float)
+comment3.params=
+comment3.target=float\ pop()
+comment4.params=
+comment4.target=float\ top()
+comment5.params=
+comment5.target=boolean\ empty()
+comment6.params=x
+comment6.target=java.lang.String\ padtoEightPlaces(float)
+comment7.params=
+comment7.target=void\ printStack()
+comment8.params=
+comment8.target=void\ main()
+numComments=9
